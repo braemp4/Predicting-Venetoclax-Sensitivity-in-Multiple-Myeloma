@@ -39,7 +39,6 @@ seaborn==0.13.2
 session-info2==0.4.2
 setuptools==84.0.0
 six==1.17.0
--e git+ssh://git@github.com/braemp4/Predicting-Venetoclax-Sensitivity-in-Multiple-Myeloma.git@bdda094312412ca75b91940ee7132ebeb8d3a761#egg=src
 statsmodels==0.14.6
 threadpoolctl==3.6.0
 typing-inspection==0.4.2
